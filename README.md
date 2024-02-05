@@ -4,7 +4,7 @@
 <!--
 ![](original_transformer.png)
 -->
-<img src="original_transformer.png" width="200" height="100">
+<img src="original_transformer.png" height="300">
 
 ### ** Papers📄 **  
 
