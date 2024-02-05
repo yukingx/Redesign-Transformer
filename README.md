@@ -8,12 +8,12 @@ Block-level Efficient Transformers:
 ☑️ [The Shaped Transformer: Attention Models in the Infinite Depth-and-Width Limit](https://arxiv.org/pdf/2306.17759.pdf)  
 ☑️ [Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention](https://arxiv.org/pdf/2112.14000.pdf)  
 ☑️ [Training-free Transformer Architecture Search](https://arxiv.org/pdf/2203.12217.pdf)    
-☑️ [AutoFormer: Searching Transformers for Visual Recognition](https://arxiv.org/pdf/2107.00651.pdf)  
 ☑️ [Blockwise-Parallel-Transformer-for-Long-Context-Large-Models](https://arxiv.org/pdf/2305.19370.pdf)  
 ☑️ [BI-DIRECTIONAL BLOCK SELF-ATTENTION FOR FAST AND MEMORY-EFFICIENT SEQUENCE MODELING](https://arxiv.org/pdf/1804.00857.pdf)  
 
 NAS for Efficient Transformers:  
 ☑️ [The Evolved Transformer](https://arxiv.org/pdf/1901.11117.pdf)  
+☑️ [AutoFormer: Searching Transformers for Visual Recognition](https://arxiv.org/pdf/2107.00651.pdf)  
 ☑️ [COSFORMER : RETHINKING SOFTMAX IN ATTENTION](https://arxiv.org/pdf/2202.08791.pdf)  
 ☑️ [NAR-Former V2: Rethinking Transformer for Universal Neural Network Representation Learning](https://arxiv.org/pdf/2306.10792.pdf)  
 
@@ -27,8 +27,8 @@ NAS for Efficient Transformers:
 ☑️ Design and Implement a simplified transformer block of the encoder.  
 
 ### ** Related GitHub Works: **
-
 🌐 [pytorch-llama](https://github.com/hkproj/pytorch-llama/tree/main) - PyTorch implementation of LLaMA by Umar Jamil.  
+☑️ Add more repositories. 
 
 ### ** Articles: **
 ☑️ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)  
