@@ -42,7 +42,7 @@ NAS for Efficient Transformers:
 ☑️ Add more repositories. 
 
 ### ** Articles: **
-☑️ Original Transformer  
+☑️ [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) - Code Based Explanation (So Good for Newbies!)
 ☑️ Vision Transformer (ViT)  
 ☑️ GPT 2  
 ☑️ [Transformer Details Not Described in The Paper](https://tunz.kr/post/4)  
@@ -57,4 +57,4 @@ NAS for Efficient Transformers:
 - (PyTorch) https://wikidocs.net/book/2788
 - (Slides) https://www.slideshare.net/wonjoonyoo/ss-188835227
 -->
-☑️ [PyTorch로 시작하는 딥 러닝 입문] (https://wikidocs.net/book/2788) - NLP Fundamentals (Korean Only)
+☑️ [PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - See the parts of NLP (Korean Only)
