@@ -52,6 +52,9 @@ NAS for Efficient Transformers:
 
 Korean:  
 ☑️ [셀프 어텐션 동작 원리](https://ratsgo.github.io/nlpbook/docs/language_model/tr_self_attention/)
+<!-- 
+- https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice?tab=readme-ov-file 
+-->
 
 ### ** Videos: **
 Korean:  
@@ -65,3 +68,7 @@ Korean:
 - (Slides) https://www.slideshare.net/wonjoonyoo/ss-188835227
 -->
 ☑️ [PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - See the parts of NLP (Korean Only)
+
+### ** ML Tools **
+I plan to apply these tools for my implementation:
+☑️ (WandB 를 활용하여 모델의 학습을 추적하는 방법)[https://teddylee777.github.io/machine-learning/wandb/]
