@@ -18,4 +18,5 @@ I am reading these papers:
 🌐 [pytorch-llama](https://github.com/hkproj/pytorch-llama/tree/main) - PyTorch implementation of LLaMA by Umar Jamil.  
 
 ### **Articles:**
-✅ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)  
+☑️ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)  
+☑️ Add more articles. 
