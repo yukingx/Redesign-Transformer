@@ -2,6 +2,11 @@
 
 ### ** Papers📄 **  
 
+Hand Crafted Transformers:  
+☑️ [Attention is All You Need]()  
+☑️ [ViT]()  
+☑️ [Mobile ViT]()  
+
 Block-level Efficient Transformers:  
 ✅ [Simplifying Transformer Blocks](https://arxiv.org/pdf/2311.01906.pdf)  
 ☑️ [Rethinking Spatial Dimensions of Vision Transformers](https://arxiv.org/pdf/2103.16302.pdf)  
@@ -31,5 +36,8 @@ NAS for Efficient Transformers:
 ☑️ Add more repositories. 
 
 ### ** Articles: **
+☑️ Original Transformer  
+☑️ Vision Transformer (ViT)  
+☑️ GPT 2  
 ☑️ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)  
-☑️ Add more articles. 
+☑️ Add more articles.  
