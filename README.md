@@ -1,9 +1,12 @@
 # Redesign of Efficient Transformers
 
+## ** Transformer **
+![](original_transformer.png)
+
 ### ** Papers📄 **  
 
 Hand Crafted Transformers:  
-☑️ [Attention is All You Need]()  
+☑️ [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  
 ☑️ [ViT]()  
 ☑️ [Mobile ViT]()  
 
@@ -39,5 +42,6 @@ NAS for Efficient Transformers:
 ☑️ Original Transformer  
 ☑️ Vision Transformer (ViT)  
 ☑️ GPT 2  
+☑️ [Transformer, GPT-3,GPT-J, T5 and BERT.](https://aliissa99.medium.com/transformer-gpt-3-gpt-j-t5-and-bert-4cf8915dd86f)  
 ☑️ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)  
 ☑️ Add more articles.  
