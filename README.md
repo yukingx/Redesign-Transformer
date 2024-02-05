@@ -42,7 +42,7 @@ NAS for Efficient Transformers:
 ☑️ Add more repositories. 
 
 ### ** Articles: **
-☑️ [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) - Code Based Explanation (So Good for Newbies!)
+☑️ [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) - Code Based Explanation (So Good for Newbies!)  
 ☑️ Vision Transformer (ViT)  
 ☑️ GPT 2  
 ☑️ [Transformer Details Not Described in The Paper](https://tunz.kr/post/4)  
