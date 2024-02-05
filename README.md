@@ -52,6 +52,9 @@ NAS for Efficient Transformers:
 
 ### ** Free Books: **
 ☑️ [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) - Transformer Fundamentals for NLP (Korean Only)
-- https://github.com/ukairia777/tensorflow-nlp-tutorial
-- 
+<!--
+- (TensorFlow) https://github.com/ukairia777/tensorflow-nlp-tutorial
+- (PyTorch) https://wikidocs.net/book/2788
+- (Slides) https://www.slideshare.net/wonjoonyoo/ss-188835227
+-->
 ☑️ [PyTorch로 시작하는 딥 러닝 입문] (https://wikidocs.net/book/2788) - NLP Fundamentals (Korean Only)
