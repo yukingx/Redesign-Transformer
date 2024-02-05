@@ -2,7 +2,7 @@
 
 ### ** Papers📄 **  
 
-Block-level Efficient Transformers: 
+Block-level Efficient Transformers:  
 ✅ [Simplifying Transformer Blocks](https://arxiv.org/pdf/2311.01906.pdf)  
 ☑️ [Rethinking Spatial Dimensions of Vision Transformers](https://arxiv.org/pdf/2103.16302.pdf)  
 ☑️ [The Shaped Transformer: Attention Models in the Infinite Depth-and-Width Limit](https://arxiv.org/pdf/2306.17759.pdf)  
