@@ -1,7 +1,7 @@
 # Redesign of Efficient Transformers
 
 ### ** Transformer **
-![](original_transformer.png)
+![](original_transformer.png | width=100)
 
 ### ** Papers📄 **  
 
