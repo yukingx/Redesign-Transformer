@@ -1,5 +1,4 @@
-# PA-Former
-Redesign of Efficient Transformers
+# Redesign of Efficient Transformers
 
 ### **Papers📄 **  
 I am reading these papers:  
