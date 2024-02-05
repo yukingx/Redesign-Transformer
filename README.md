@@ -1,18 +1,21 @@
 # Redesign of Efficient Transformers
 
-### **Papers📄 **  
+### ** Papers📄 **  
 I am reading these papers:  
 ✅ [Simplifying Transformer Blocks](https://arxiv.org/pdf/2311.01906.pdf)  
 ☑️ [Blockwise-Parallel-Transformer-for-Long-Context-Large-Models](https://arxiv.org/pdf/2305.19370.pdf)  
 
-### **Goals 🚀**
+### ** Goals 🚀 **
 ✅ Understand the concept of Attention, Self-Attention, and Multi-Head Attention.
+✅ Understand the concept of dot product of two matrices.   
+✅ Understand the concept of autoregressive language models.  
+✅ Understand the concept of attention computation.  
 ☑️ Understand the concpet of Key, Query, and Value.
 ☑️ Understand the concpet of Positional Encoding.
-☑️ Understand the concpet of Encoder and Decoder 
+☑️ Understand the concpet of Encoder and Decoder. 
 ☑️ Test and Understand a training process of the original transformer at the code level.
-☑️ Design and Implement a parallelized transformer block of the encoder
-☑️ Design and Implement a simplified transformer block of the encoder
+☑️ Design and Implement a parallelized transformer block of the encoder.
+☑️ Design and Implement a simplified transformer block of the encoder.
 
 ### **Related GitHub Works:**
 🌐 [pytorch-llama](https://github.com/hkproj/pytorch-llama/tree/main) - PyTorch implementation of LLaMA by Umar Jamil.  
