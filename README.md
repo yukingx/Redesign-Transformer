@@ -38,6 +38,7 @@ NAS for Efficient Transformers:
 ☑️ Design and Implement a simplified transformer block of the encoder.  
 
 ### ** Related GitHub Works: **
+🌐 [Training a causal language model from scratch](https://colab.research.google.com/github/huggingface/notebooks/blob/master/course/en/chapter7/section6_pt.ipynb) - PyTorch at Colab
 🌐 [pytorch-llama](https://github.com/hkproj/pytorch-llama/tree/main) - PyTorch implementation of LLaMA by Umar Jamil.  
 ☑️ Add more repositories. 
 
