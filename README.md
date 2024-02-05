@@ -45,6 +45,13 @@ NAS for Efficient Transformers:
 ☑️ Original Transformer  
 ☑️ Vision Transformer (ViT)  
 ☑️ GPT 2  
+☑️ [Transformer Details Not Described in The Paper](https://tunz.kr/post/4)  
 ☑️ [Transformer, GPT-3,GPT-J, T5 and BERT.](https://aliissa99.medium.com/transformer-gpt-3-gpt-j-t5-and-bert-4cf8915dd86f)  
 ☑️ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)  
 ☑️ Add more articles.  
+
+### ** Free Books: **
+☑️ [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) - Transformer Fundamentals for NLP (Korean Only)
+- https://github.com/ukairia777/tensorflow-nlp-tutorial
+- 
+☑️ [PyTorch로 시작하는 딥 러닝 입문] (https://wikidocs.net/book/2788) - NLP Fundamentals (Korean Only)
