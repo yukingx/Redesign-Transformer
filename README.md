@@ -70,6 +70,7 @@ Korean:
 -->
 ☑️ [PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - See the parts of NLP (Korean Only)
 
-### ** ML Tools **
+### ** Implementation **
 I plan to apply these tools for my implementation:  
+✅ PyTorch, Conda, GPU Server with A5000 x 8, tmux for session management  
 ☑️ [WandB 를 활용하여 모델의 학습을 추적하는 방법](https://teddylee777.github.io/machine-learning/wandb/)  
