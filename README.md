@@ -7,7 +7,9 @@ I am reading these papers:
 
 ### **Goals 🚀**
 ✅ Understand the concept of Attention, Self-Attention, and Multi-Head Attention.
-☑️ 
+☑️ Understand the concpet of Key, Query, and Value.
+☑️ Understand the concpet of Positional Encoding.
+☑️ Understand the concpet of Encoder and Decoder 
 ☑️ Test and Understand a training process of the original transformer at the code level.
 ☑️ Design and Implement a parallelized transformer block of the encoder
 ☑️ Design and Implement a simplified transformer block of the encoder
