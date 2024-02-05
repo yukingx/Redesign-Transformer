@@ -50,6 +50,13 @@ NAS for Efficient Transformers:
 ☑️ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)  
 ☑️ Add more articles.  
 
+Korean:  
+☑️ [셀프 어텐션 동작 원리](https://ratsgo.github.io/nlpbook/docs/language_model/tr_self_attention/)
+
+### ** Videos: **
+Korean:  
+☑️ [[딥러닝 기계 번역] Transformer: Attention Is All You Need (꼼꼼한 딥러닝 논문 리뷰와 코드 실습)](https://www.youtube.com/watch?v=AA621UofTUA)
+
 ### ** Free Books: **
 ☑️ [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) - Transformer Fundamentals for NLP (Korean Only)
 <!--
