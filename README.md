@@ -12,6 +12,10 @@ Hand Crafted Transformers:
 ☑️ [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  
 ☑️ [ViT]()  
 ☑️ [Mobile ViT]()  
+☑️ [Swin-T]()
+☑️ [TinyViT]()
+☑️ [MinViT]()
+☑️ [EfficientViT]()
 
 Block-level Efficient Transformers:  
 ✅ [Simplifying Transformer Blocks](https://arxiv.org/pdf/2311.01906.pdf)  
