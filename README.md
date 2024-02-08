@@ -32,6 +32,9 @@ NAS for Efficient Transformers:
 ☑️ [COSFORMER : RETHINKING SOFTMAX IN ATTENTION](https://arxiv.org/pdf/2202.08791.pdf)  
 ☑️ [NAR-Former V2: Rethinking Transformer for Universal Neural Network Representation Learning](https://arxiv.org/pdf/2306.10792.pdf)  
 
+Trainging-Free NAS
+[]()
+
 ### ** Goals 🚀 **
 ✅ Understand the concept of Attention, Self-Attention, and Multi-Head Attention.  
 ☑️ Understand the concpet of Key, Query, and Value.  
@@ -43,6 +46,8 @@ NAS for Efficient Transformers:
 
 ### ** Related GitHub Works: **
 🌐 [MS Cream](https://github.com/microsoft/Cream/tree/main) - A Collection of NAS and Vision Transformer Work: ('20) Cream, ('21) AutoFormer, AutoFormerV2, ('22) TinyViT, MinViT, CDARTS, and ('23) TinyCLIP, EfficientViT 
+🌐 [NAS-With-Code](https://github.com/xiaoiker/NAS-With-Code)
+🌐 [Neural-Architecture-Search-PaperAndCode-Sunmary](https://github.com/LiuTingWed/Neural-Architecture-Search-PaperAndCode-Sunmary)
 🌐 [Training a causal language model from scratch](https://colab.research.google.com/github/huggingface/notebooks/blob/master/course/en/chapter7/section6_pt.ipynb) - PyTorch at Colab  
 🌐 [pytorch-llama](https://github.com/hkproj/pytorch-llama/tree/main) - PyTorch implementation of LLaMA by Umar Jamil.  
 ☑️ Add more repositories. 
