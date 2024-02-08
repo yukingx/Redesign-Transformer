@@ -1,4 +1,11 @@
 # TF_TAS
+
+### ** setup environmnents: ###
+pytorch 2.2.0
+python 3.10
+cuda 11.7
+gpu driver 515.43.04
+
 ### ** code test: **
 
 ✅ The module torch.distributed.launch is deprecated
