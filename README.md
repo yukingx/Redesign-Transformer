@@ -38,6 +38,7 @@ NAS for Efficient Transformers:
 ☑️ Design and Implement a simplified transformer block of the encoder.  
 
 ### ** Related GitHub Works: **
+🌐 [MS Cream](https://github.com/microsoft/Cream/tree/main) - A Collection of NAS and Vision Transformer Work: ('20) Cream, ('21) AutoFormer, AutoFormerV2, ('22) TinyViT, MinViT, CDARTS, and ('23) TinyCLIP, EfficientViT 
 🌐 [Training a causal language model from scratch](https://colab.research.google.com/github/huggingface/notebooks/blob/master/course/en/chapter7/section6_pt.ipynb) - PyTorch at Colab  
 🌐 [pytorch-llama](https://github.com/hkproj/pytorch-llama/tree/main) - PyTorch implementation of LLaMA by Umar Jamil.  
 ☑️ Add more repositories. 
