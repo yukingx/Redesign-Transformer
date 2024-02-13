@@ -47,11 +47,11 @@ Trainging-Free NAS
 ☑️ Design and Implement a simplified transformer block of the encoder.  
 
 ### ** Related GitHub Works: **
-🌐 [MS Cream](https://github.com/microsoft/Cream/tree/main) - A Collection of NAS and Vision Transformer Work: ('20) Cream, ('21) AutoFormer, AutoFormerV2, ('22) TinyViT, MinViT, CDARTS, and ('23) TinyCLIP, EfficientViT 
-🌐 [NAS-With-Code](https://github.com/xiaoiker/NAS-With-Code)
-🌐 [Neural-Architecture-Search-PaperAndCode-Sunmary](https://github.com/LiuTingWed/Neural-Architecture-Search-PaperAndCode-Sunmary)
-🌐 [Neural Tangent Kernel Papers](https://github.com/kwignb/NeuralTangentKernel-Papers)
-☑️ Add more repositories. 
+🌐 [MS Cream](https://github.com/microsoft/Cream/tree/main) - A Collection of NAS and Vision Transformer Work: ('20) Cream, ('21) AutoFormer, AutoFormerV2, ('22) TinyViT, MinViT, CDARTS, and ('23) TinyCLIP, EfficientViT  
+🌐 [NAS-With-Code](https://github.com/xiaoiker/NAS-With-Code)  
+🌐 [Neural-Architecture-Search-PaperAndCode-Sunmary](https://github.com/LiuTingWed/Neural-Architecture-Search-PaperAndCode-Sunmary)  
+🌐 [Neural Tangent Kernel Papers](https://github.com/kwignb/NeuralTangentKernel-Papers)  
+☑️ Add more repositories.  
 
 ### ** Articles: **
 ☑️ [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) - Code Based Explanation (So Good for Newbies!)  
