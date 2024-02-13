@@ -1,5 +1,7 @@
 # Redesign of Efficient Transformers
 
+[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
+
 ### ** Transformer **
 <!--
 ![](original_transformer.png)
