@@ -1,6 +1,6 @@
 # Redesign of Efficient Transformers
 
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
+[![Hits](https://hits.sh/github.com/yukingx/Redesign-Transformer.svg)](https://hits.sh/github.com/yukingx/Redesign-Transformer/)
 
 ### ** Transformer **
 <!--
