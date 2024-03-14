@@ -1,6 +1,8 @@
 # Redesign of Efficient Transformers
 #### Contributor(s): yhmoon@etri.re.kr
+<!--
 #### If you are interested in joining this project, please do not hesitate to contact us via email.
+-->
 
 [![Hits](https://hits.sh/github.com/yukingx/Redesign-Transformer.svg)](https://hits.sh/github.com/yukingx/Redesign-Transformer/)
 
