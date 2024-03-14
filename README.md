@@ -8,6 +8,17 @@
 -->
 <img src="original_transformer.png" height="600">
 
+### ** Goals 🚀 **
+✅ Understand the concept of Attention, Self-Attention, and Multi-Head Attention.  
+☑️ Understand the concpet of Key, Query, and Value.  
+☑️ Understand the concpet of Positional Encoding.  
+☑️ Understand the concpet of Encoder and Decoder.  
+☑️ Test and Understand a training process of the original transformer at the code level.  
+☑️ Design and Implement a parallelized transformer block of the encoder.  
+☑️ Design and Implement a simplified transformer block of the encoder.  
+☑️ Design and Implement a PA-Former, Parallel Transformer with Adaptively Shaped Attention  
+☑️ Write and Submit PA-Former to AI Conferences such as ICPR 2024, ACCV 2024, etc.  
+
 ### ** Papers📄 **  
 
 Hand Crafted Transformers:  
@@ -36,15 +47,6 @@ NAS for Efficient Transformers:
 
 Trainging-Free NAS
 []()
-
-### ** Goals 🚀 **
-✅ Understand the concept of Attention, Self-Attention, and Multi-Head Attention.  
-☑️ Understand the concpet of Key, Query, and Value.  
-☑️ Understand the concpet of Positional Encoding.  
-☑️ Understand the concpet of Encoder and Decoder.  
-☑️ Test and Understand a training process of the original transformer at the code level.  
-☑️ Design and Implement a parallelized transformer block of the encoder.  
-☑️ Design and Implement a simplified transformer block of the encoder.  
 
 ### *** GPT Implementation: **
 <pre>
