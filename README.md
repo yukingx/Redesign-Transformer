@@ -1,4 +1,6 @@
 # Redesign of Efficient Transformers
+#### Contributor(s): yhmoon@etri.re.kr
+#### If you'd like to join this work, please feel free to email.
 
 [![Hits](https://hits.sh/github.com/yukingx/Redesign-Transformer.svg)](https://hits.sh/github.com/yukingx/Redesign-Transformer/)
 
@@ -16,8 +18,10 @@
 ☑️ Test and Understand a training process of the original transformer at the code level.  
 ☑️ Design and Implement a parallelized transformer block of the encoder.  
 ☑️ Design and Implement a simplified transformer block of the encoder.  
+<!--
 ☑️ Design and Implement a PA-Former, Parallel Transformer with Adaptively Shaped Attention  
 ☑️ Write and Submit PA-Former to AI Conferences such as ICPR 2024, ACCV 2024, etc.  
+-->
 
 ### ** Papers📄 **  
 
@@ -46,7 +50,7 @@ NAS for Efficient Transformers:
 ☑️ [NAR-Former V2: Rethinking Transformer for Universal Neural Network Representation Learning](https://arxiv.org/pdf/2306.10792.pdf)  
 
 Trainging-Free NAS
-[]()
+☑️ []()  
 
 ### *** GPT Implementation: **
 <pre>
@@ -81,21 +85,23 @@ I've also compiled some key takeaways from the series in a series of blog posts 
 ☑️ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)    
 ☑️ [Understanding the Neural Tangent Kernel](https://rajatvd.github.io/NTK/)  
 ☑️ Add more articles.    
-
+<!-- 
 Korean:  
 ☑️ [셀프 어텐션 동작 원리](https://ratsgo.github.io/nlpbook/docs/language_model/tr_self_attention/)
-<!-- 
 - https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice?tab=readme-ov-file 
 -->
 
 ### ** Videos: **
 ☑️ [Karpathy's Video: Let’s Build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=20s)  
+<!-- 
 Korean:  
 ☑️ [[딥러닝 기계 번역] Transformer: Attention Is All You Need (꼼꼼한 딥러닝 논문 리뷰와 코드 실습)](https://www.youtube.com/watch?v=AA621UofTUA)
+-->
 
 ### ** Free Books: **
+<!-- 
+Korean:
 ☑️ [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) - Transformer Fundamentals for NLP (Korean Only)
-<!--
 - (TensorFlow) https://github.com/ukairia777/tensorflow-nlp-tutorial
 - (PyTorch) https://wikidocs.net/book/2788
 - (Slides) https://www.slideshare.net/wonjoonyoo/ss-188835227
@@ -105,4 +111,7 @@ Korean:
 ### ** Implementation **
 I plan to apply these tools for my implementation:  
 ✅ PyTorch, Conda, GPU Server with A5000 x 8, tmux for session management  
+<!--
+Korean:
 ☑️ [WandB 를 활용하여 모델의 학습을 추적하는 방법](https://teddylee777.github.io/machine-learning/wandb/)  
+-->
