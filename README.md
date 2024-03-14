@@ -77,6 +77,9 @@ Trainging-Free NAS
 ☑️ [Transformer, GPT-3,GPT-J, T5 and BERT.](https://aliissa99.medium.com/transformer-gpt-3-gpt-j-t5-and-bert-4cf8915dd86f)    
 ☑️ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)    
 ☑️ [Understanding the Neural Tangent Kernel](https://rajatvd.github.io/NTK/)  
+☑️ Add more articles.  
+
+### ** Articles for Domain-Specific LLM as an Oracle (This will be moved to a new LLM-Experts repo) ### 
 ☑️ [[AI] A Comprehensive Review of Transformers: from BERT to ChatGPT](https://medium.com/@vlad_zh/a-comprehensive-review-of-transformers-from-bert-to-chatgpt-f7dfe2b23043)  
 ✅ [Should you Prompt, RAG, Tune, or Train? A Guide to Choose the Right Generative AI Approach](https://medium.com/@pandey.vikesh/should-you-prompt-rag-tune-or-train-a-guide-to-choose-the-right-generative-ai-approach-5e264043bd7d)   
 ☑️ [RAG vs Finetuning vs Prompt Engineering: A pragmatic view on LLM implementation](https://www.linkedin.com/pulse/rag-vs-finetuning-prompt-engineering-pragmatic-view-llm-mathew/)    
@@ -84,11 +87,16 @@ Trainging-Free NAS
 ☑️ [RAG Vs Fine-Tuning Vs Both for LLM performance When to use which](https://www.youtube.com/watch?v=b2OLrLN6BKE)  
 ☑️ [RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7)  
 ☑️ [Fine-tuning versus RAG in Generative AI Applications Architecture](https://harsha-srivatsa.medium.com/fine-tuning-versus-rag-in-generative-ai-applications-architecture-d54ca6d2acb8)  
-☑️ Add more articles.    
+☑️ [HuggingGPT: A New Way to Solve Complex AI Tasks with Language](https://ingliguori.medium.com/hugginggpt-a-new-way-to-solve-complex-ai-tasks-with-language-602b6f5b263c) 
+☑️ [[논문리뷰] HuggingGPT: Solving AI Tasks with ChatGPT and its friends in Hugging Face](https://velog.io/@boyunj0226/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-HuggingGPT-Solving-AI-Tasks-with-ChatGPT-and-its-friends-in-Hugging-Face)  
+☑️ []()    
+☑️ []()    
+
 <!-- 
 Korean:  
 ☑️ [셀프 어텐션 동작 원리](https://ratsgo.github.io/nlpbook/docs/language_model/tr_self_attention/)
 - https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice?tab=readme-ov-file 
+✅ [생각의 사슬(Chain-of-Thought) 프롬프트를 사용하여 추론 작업의 성능 높이기](https://www.ncloud-forums.com/topic/63/)
 -->
 
 ### ** Videos: **
