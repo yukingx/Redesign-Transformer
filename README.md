@@ -80,6 +80,8 @@ Trainging-Free NAS
 ☑️ [Should you Prompt, RAG, Tune, or Train? A Guide to Choose the Right Generative AI Approach](https://medium.com/@pandey.vikesh/should-you-prompt-rag-tune-or-train-a-guide-to-choose-the-right-generative-ai-approach-5e264043bd7d)   
 ☑️ [RAG vs Finetuning vs Prompt Engineering: A pragmatic view on LLM implementation](https://www.linkedin.com/pulse/rag-vs-finetuning-prompt-engineering-pragmatic-view-llm-mathew/)  
 ☑️ [RAG Vs Fine-Tuning Vs Both for LLM performance When to use which](https://www.youtube.com/watch?v=b2OLrLN6BKE)  
+☑️ [RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7)  
+☑️ [Fine-tuning versus RAG in Generative AI Applications Architecture](https://harsha-srivatsa.medium.com/fine-tuning-versus-rag-in-generative-ai-applications-architecture-d54ca6d2acb8)  
 ☑️ Add more articles.    
 <!-- 
 Korean:  
