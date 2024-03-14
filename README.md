@@ -53,11 +53,6 @@ Trainging-Free NAS
 ☑️ []()  
 
 ### *** GPT Implementation: **
-<pre>
-I just finished Andrej Karpathy's incredible video on GPT, "Let's build GPT: from scratch, in code, spelled out." 💡 💻
-In this series, Karpathy provides a captivating explanation of transformers and attention models, making it a must-watch for anyone interested in NLP or LLMs. 🤖
-I've also compiled some key takeaways from the series in a series of blog posts that delve deeper into specific concepts:
-</pre>
 ☑️ [It's GPT Time!](https://medium.com/@kdwa2404/gpt-with-andrej-karpathy-part-1-865bec6fbcce)  
 ☑️ [Optimize!](https://medium.com/@kdwa2404/gpt-with-andrej-karpathy-part-2-f8653926272f)  
 ☑️ [Attention!](https://medium.com/@kdwa2404/gpt-with-andrej-karpathy-part-3-a42313db1421)  
