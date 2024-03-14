@@ -46,6 +46,18 @@ Trainging-Free NAS
 ☑️ Design and Implement a parallelized transformer block of the encoder.  
 ☑️ Design and Implement a simplified transformer block of the encoder.  
 
+### *** GPT Implementation: **
+<pre>
+I just finished Andrej Karpathy's incredible video on GPT, "Let's build GPT: from scratch, in code, spelled out." 💡 💻
+In this series, Karpathy provides a captivating explanation of transformers and attention models, making it a must-watch for anyone interested in NLP or LLMs. 🤖
+I've also compiled some key takeaways from the series in a series of blog posts that delve deeper into specific concepts:
+</pre>
+[It's GPT Time!](https://lnkd.in/gAAiWe3q)
+[Optimize!](https://lnkd.in/gYVUq7e7)
+[Attention!](https://lnkd.in/gFqEyiC8)
+[Attention is all you need!](https://lnkd.in/gsRAH_cY)
+[Transformer Networks](https://lnkd.in/gBmNKyrz)
+
 ### ** Related GitHub Works: **
 🌐 [MS Cream](https://github.com/microsoft/Cream/tree/main) - A Collection of NAS and Vision Transformer Work: ('20) Cream, ('21) AutoFormer, AutoFormerV2, ('22) TinyViT, MinViT, CDARTS, and ('23) TinyCLIP, EfficientViT  
 🌐 [NAS-With-Code](https://github.com/xiaoiker/NAS-With-Code)  
