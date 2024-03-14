@@ -1,5 +1,5 @@
 # Redesign of Efficient Transformers
-#### Contributor(s): yhmoon@etri.re.kr
+#### Contributor(s): yhmoon@etri.re.kr (I am interested in variants of the Vision Transformer)
 <!--
 #### If you are interested in joining this project, please do not hesitate to contact us via email.
 -->
@@ -77,6 +77,9 @@ Trainging-Free NAS
 ☑️ [Transformer, GPT-3,GPT-J, T5 and BERT.](https://aliissa99.medium.com/transformer-gpt-3-gpt-j-t5-and-bert-4cf8915dd86f)    
 ☑️ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)    
 ☑️ [Understanding the Neural Tangent Kernel](https://rajatvd.github.io/NTK/)  
+☑️ [Should you Prompt, RAG, Tune, or Train? A Guide to Choose the Right Generative AI Approach](https://medium.com/@pandey.vikesh/should-you-prompt-rag-tune-or-train-a-guide-to-choose-the-right-generative-ai-approach-5e264043bd7d)   
+☑️ [RAG vs Finetuning vs Prompt Engineering: A pragmatic view on LLM implementation](https://www.linkedin.com/pulse/rag-vs-finetuning-prompt-engineering-pragmatic-view-llm-mathew/)  
+☑️ [RAG Vs Fine-Tuning Vs Both for LLM performance When to use which](https://www.youtube.com/watch?v=b2OLrLN6BKE)  
 ☑️ Add more articles.    
 <!-- 
 Korean:  
@@ -86,6 +89,7 @@ Korean:
 
 ### ** Videos: **
 ☑️ [Karpathy's Video: Let’s Build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=20s)  
+☑️ [New KOALA LLM - Ignite Your Professional Career in AI](https://www.youtube.com/watch?v=ePoCYL_5rDM)
 <!-- 
 Korean:  
 ☑️ [[딥러닝 기계 번역] Transformer: Attention Is All You Need (꼼꼼한 딥러닝 논문 리뷰와 코드 실습)](https://www.youtube.com/watch?v=AA621UofTUA)
