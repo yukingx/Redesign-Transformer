@@ -52,11 +52,11 @@ I just finished Andrej Karpathy's incredible video on GPT, "Let's build GPT: fro
 In this series, Karpathy provides a captivating explanation of transformers and attention models, making it a must-watch for anyone interested in NLP or LLMs. 🤖
 I've also compiled some key takeaways from the series in a series of blog posts that delve deeper into specific concepts:
 </pre>
-☑️ [It's GPT Time!](https://lnkd.in/gAAiWe3q) - [Karpathy's Original Video: Let’s Build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=20s)
-☑️ [Optimize!](https://lnkd.in/gYVUq7e7) - [Karpathy's Original Video: ]()
-☑️ [Attention!](https://lnkd.in/gFqEyiC8) - [Karpathy's Original Video: ]() 
-☑️ [Attention is all you need!](https://lnkd.in/gsRAH_cY) - [Karpathy's Original Video: ]() 
-☑️ [Transformer Networks](https://lnkd.in/gBmNKyrz) - [Karpathy's Original Video: ]()
+☑️ [It's GPT Time!](https://lnkd.in/gAAiWe3q) - [Karpathy's Original Video: Let’s Build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=20s)  
+☑️ [Optimize!](https://lnkd.in/gYVUq7e7) - [Karpathy's Original Video: ]()  
+☑️ [Attention!](https://lnkd.in/gFqEyiC8) - [Karpathy's Original Video: ]()   
+☑️ [Attention is all you need!](https://lnkd.in/gsRAH_cY) - [Karpathy's Original Video: ]()   
+☑️ [Transformer Networks](https://lnkd.in/gBmNKyrz) - [Karpathy's Original Video: ]()  
 
 ### ** Related GitHub Works: **
 🌐 [MS Cream](https://github.com/microsoft/Cream/tree/main) - A Collection of NAS and Vision Transformer Work: ('20) Cream, ('21) AutoFormer, AutoFormerV2, ('22) TinyViT, MinViT, CDARTS, and ('23) TinyCLIP, EfficientViT  
