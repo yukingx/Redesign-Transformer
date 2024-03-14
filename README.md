@@ -70,11 +70,12 @@ Trainging-Free NAS
 ### ** Articles: **
 ☑️ [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) - Code Based Explanation (So Good for Newbies!)  
 ☑️ Vision Transformer (ViT)  
-☑️ GPT 2 - [It's GPT Time!](https://lnkd.in/gAAiWe3q)   
-☑️ GPT 2 - [Optimize!](https://lnkd.in/gYVUq7e7) - [Karpathy's Original Video: ]()  
-☑️ GPT 2 - [Attention!](https://lnkd.in/gFqEyiC8) - [Karpathy's Original Video: ]()   
-☑️ GPT 2 - [Attention is all you need!](https://lnkd.in/gsRAH_cY) - [Karpathy's Original Video: ]()   
-☑️ GPT 2 - [Transformer Networks](https://lnkd.in/gBmNKyrz) - [Karpathy's Original Video: ]()  
+☑️ GPT 2  
+-- [It's GPT Time!](https://lnkd.in/gAAiWe3q)   
+☑️ GPT 2 - [Optimize!](https://lnkd.in/gYVUq7e7)    
+☑️ GPT 2 - [Attention!](https://lnkd.in/gFqEyiC8)    
+☑️ GPT 2 - [Attention is all you need!](https://lnkd.in/gsRAH_cY)     
+☑️ GPT 2 - [Transformer Networks](https://lnkd.in/gBmNKyrz)    
 ☑️ [Transformer Details Not Described in The Paper](https://tunz.kr/post/4)    
 ☑️ [Transformer, GPT-3,GPT-J, T5 and BERT.](https://aliissa99.medium.com/transformer-gpt-3-gpt-j-t5-and-bert-4cf8915dd86f)    
 ☑️ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)    
