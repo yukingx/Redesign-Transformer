@@ -22,6 +22,7 @@
 - MRPC
 - RTE
 - GLUE benchmark: MNLI-(m/mm) - Acc, SST-2 - Acc, QNLI - Acc, MRPC - F1/Acc, QQP - F1/Acc, RTE - Acc, STS-B - Pear/Spear
+<img src="GLUE benchmark.png">
 - MNLI
 - STS-B
 
