@@ -6,7 +6,7 @@
 # NLP Datasets - Metric: Zero-Shot (%)
 - CoLA
 - MRPC
-- SST2
+- SST2 (SST-2)
 - QNLI
 - QQP
 - RTE
@@ -16,8 +16,14 @@
 
 # NLP Datasets - Metric: ?
 - C4 (Crawled Corpus)
-- Alpaca
-- lm-evaluation-harness
+- Alpaca dataset
+- GPT4-Alpaca dataset (Peng et al., 2023): including 52K GPT-4 generated instruction-following data in English.
+- [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation- harness/pull/531)
+- MRPC
+- RTE
+- GLUE benchmark: MNLI-(m/mm) - Acc, SST-2 - Acc, QNLI - Acc, MRPC - F1/Acc, QQP - F1/Acc, RTE - Acc, STS-B - Pear/Spear
+- MNLI
+- STS-B
 
 # NLP Datasets - Metric: Perplexity
 - WikiText2
@@ -39,6 +45,8 @@
 
 
 # NLP Metrics
+- F1
+- Accuracy?
 - Zero-Shot (%)
 - Perplexity (PPL)
 - Average GLUE
