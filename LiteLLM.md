@@ -15,7 +15,7 @@
 - WMT'19 En-De
 
 # NLP Datasets - Metric: ?
-- C4
+- C4 (Crawled Corpus)
 - Alpaca
 - lm-evaluation-harness
 
