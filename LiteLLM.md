@@ -1,5 +1,14 @@
+# Pruning for LLMs
+- [COMPRESSO: STRUCTURED PRUNING WITH COLLABORATIVE PROMPTING LEARNS COMPACT LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2310.05015.pdf)  
+# KD for LLMs
+- [EMNLP 2021, CKD, Distilling Linguistic Context for Language Model Compression](https://aclanthology.org/2021.emnlp-main.30.pdf)  
+# Quantization for LLMs
+# Adaptor for LLMs
+
+
 # NLP Tasks
-- Q&A
+- Extractive Q&A
+- Generative Q&A
 - Machine Translation
 - Summary
 
@@ -15,13 +24,15 @@
 - WMT'19 En-De
 
 # NLP Datasets - Metric: ?
+- SQuAD (Stanford Question Answer Dataset)  
 - C4 (Crawled Corpus)
 - Alpaca dataset
 - GPT4-Alpaca dataset (Peng et al., 2023): including 52K GPT-4 generated instruction-following data in English.
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation- harness/pull/531)
 - MRPC
 - RTE
-- GLUE benchmark: MNLI-(m/mm) - Acc, SST-2 - Acc, QNLI - Acc, MRPC - F1/Acc, QQP - F1/Acc, RTE - Acc, STS-B - Pear/Spear
+- GLUE(General Language
+Understanding Evaluation) benchmark: MNLI-(m/mm) - Acc, SST-2 - Acc, QNLI - Acc, MRPC - F1/Acc, QQP - F1/Acc, RTE - Acc, STS-B - Pear/Spear  
 <img src="GLUE benchmark.png">
 - MNLI
 - STS-B
@@ -58,3 +69,7 @@
 - Search Time
 - Memory
 - #Params
+
+# Etc.
+- AIC (Akaike information criterion)
+- BIC (Bayes Information Criteria)
