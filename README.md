@@ -1,5 +1,5 @@
 # Redesign of Efficient Transformers
-#### Contributor(s): yhmoon@etri.re.kr (I am interested in variants of the Vision Transformer)
+#### Contributor(s): yukingx@gmail.com (I am interested in variants of the Vision Transformer)
 <!--
 #### If you are interested in joining this project, please do not hesitate to contact us via email.
 -->
@@ -82,6 +82,7 @@ LLM-Experts
 ☑️ [Transformer, GPT-3,GPT-J, T5 and BERT.](https://aliissa99.medium.com/transformer-gpt-3-gpt-j-t5-and-bert-4cf8915dd86f)    
 ☑️ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)    
 ☑️ [Understanding the Neural Tangent Kernel](https://rajatvd.github.io/NTK/)  
+☑️ [Mixture-of-Experts (MoE): The Birth and Rise of Conditional Computation](https://cameronrwolfe.substack.com/p/conditional-computation-the-birth)
 ☑️ Add more articles.  
 
 ### ** Articles for Domain-Specific LLM as an Oracle (This will be moved to a new LLM-Experts repo) ### 
