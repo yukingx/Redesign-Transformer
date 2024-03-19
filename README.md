@@ -67,7 +67,7 @@ LLM-Experts
 ☑️ [Karpathy's Original Video: Let’s Build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=20s)  
 
 ### ** Related GitHub Works: **
-🌐 [MS Cream](https://github.com/microsoft/Cream/tree/main) - A Collection of NAS and Vision Transformer Work: ('20) Cream, ('21) AutoFormer, AutoFormerV2, ('22) TinyViT, MinViT, CDARTS, and ('23) TinyCLIP, EfficientViT 
+🌐 [MS Cream](https://github.com/microsoft/Cream/tree/main) - A Collection of NAS and Vision Transformer Work: ('20) Cream, ('21) AutoFormer, AutoFormerV2, ('22) TinyViT, MinViT, CDARTS, and ('23) TinyCLIP, EfficientViT  
 🌐 [NAS-With-Code](https://github.com/xiaoiker/NAS-With-Code)  
 🌐 [Neural-Architecture-Search-PaperAndCode-Sunmary](https://github.com/LiuTingWed/Neural-Architecture-Search-PaperAndCode-Sunmary)  
 🌐 [Neural Tangent Kernel Papers](https://github.com/kwignb/NeuralTangentKernel-Papers)  
@@ -82,7 +82,7 @@ LLM-Experts
 ☑️ [Transformer, GPT-3,GPT-J, T5 and BERT.](https://aliissa99.medium.com/transformer-gpt-3-gpt-j-t5-and-bert-4cf8915dd86f)    
 ☑️ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)    
 ☑️ [Understanding the Neural Tangent Kernel](https://rajatvd.github.io/NTK/)  
-☑️ [Mixture-of-Experts (MoE): The Birth and Rise of Conditional Computation](https://cameronrwolfe.substack.com/p/conditional-computation-the-birth)
+☑️ [Mixture-of-Experts (MoE): The Birth and Rise of Conditional Computation](https://cameronrwolfe.substack.com/p/conditional-computation-the-birth)  
 ☑️ Add more articles.  
 
 ### ** Articles for Domain-Specific LLM as an Oracle (This will be moved to a new LLM-Experts repo) ### 
@@ -93,10 +93,9 @@ LLM-Experts
 ☑️ [RAG Vs Fine-Tuning Vs Both for LLM performance When to use which](https://www.youtube.com/watch?v=b2OLrLN6BKE)  
 ☑️ [RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7)  
 ☑️ [Fine-tuning versus RAG in Generative AI Applications Architecture](https://harsha-srivatsa.medium.com/fine-tuning-versus-rag-in-generative-ai-applications-architecture-d54ca6d2acb8)  
-☑️ [HuggingGPT: A New Way to Solve Complex AI Tasks with Language](https://ingliguori.medium.com/hugginggpt-a-new-way-to-solve-complex-ai-tasks-with-language-602b6f5b263c)   
+☑️ [HuggingGPT: A New Way to Solve Complex AI Tasks with Language](https://ingliguori.medium.com/hugginggpt-a-new-way-to-solve-complex-ai-tasks-with-language-602b6f5b263c)    
 ☑️ [논문리뷰 HuggingGPT: Solving AI Tasks with ChatGPT and its friends in Hugging Face](https://velog.io/@boyunj0226/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-HuggingGPT-Solving-AI-Tasks-with-ChatGPT-and-its-friends-in-Hugging-Face)  
-☑️ []()    
-☑️ []()    
+☑️ Add more articles.  
 
 <!-- 
 Korean:  
