@@ -51,7 +51,7 @@ NAS for Efficient Transformers:
 ☑️ [COSFORMER : RETHINKING SOFTMAX IN ATTENTION](https://arxiv.org/pdf/2202.08791.pdf)  
 ☑️ [NAR-Former V2: Rethinking Transformer for Universal Neural Network Representation Learning](https://arxiv.org/pdf/2306.10792.pdf)  
 
-Trainging-Free NAS
+Trainging-Free NAS  
 ☑️ []()  
 
 LLM-Experts
