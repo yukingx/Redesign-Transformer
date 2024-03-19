@@ -54,7 +54,7 @@ NAS for Efficient Transformers:
 Trainging-Free NAS  
 ☑️ []()  
 
-LLM-Experts  
+LaaS (LLM-Experts)
 ☑️ [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/pdf/2303.17580.pdf)  
 ☑️ [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf)  
 
@@ -83,6 +83,9 @@ LLM-Experts
 ☑️ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)    
 ☑️ [Understanding the Neural Tangent Kernel](https://rajatvd.github.io/NTK/)  
 ☑️ [Mixture-of-Experts (MoE): The Birth and Rise of Conditional Computation](https://cameronrwolfe.substack.com/p/conditional-computation-the-birth)  
+☑️ Add more articles.  
+Korean::  
+☑️ [BERT 논문정리](https://tmaxai.github.io/post/BERT/)
 ☑️ Add more articles.  
 
 ### ** Articles for Domain-Specific LLM as an Oracle (This will be moved to a new LLM-Experts repo) ### 
