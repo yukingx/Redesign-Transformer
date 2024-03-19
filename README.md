@@ -54,7 +54,7 @@ NAS for Efficient Transformers:
 Trainging-Free NAS  
 ☑️ []()  
 
-LLM-Experts
+LLM-Experts  
 ☑️ [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/pdf/2303.17580.pdf)  
 ☑️ [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf)  
 
