@@ -5,35 +5,35 @@
 
 ## Compression / Lite LLMs
 ### Representatives
-- TinyBERT, MobileBERT, ...
+- TinyBERT, MobileBERT, DistillBERT...
 ### Pruning for LLMs
 - [COMPRESSO: STRUCTURED PRUNING WITH COLLABORATIVE PROMPTING LEARNS COMPACT LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2310.05015.pdf)  
 ### KD for LLMs
 #### KD original papers
-- Cristian Buciluundefined, Rich Caruana, and Alexan- 659 dru Niculescu-Mizil. 2006. Model compression. In 660 Proceedings of the 12th ACM SIGKDD International 661 Conference on Knowledge Discovery and Data Min- 662 ing, KDD ’06, page 535–541, New York, NY, USA. 663 Association for Computing Machinery.
+- Cristian Buciluundefined, Rich Caruana, and Alexan- 659 dru Niculescu-Mizil. 2006. Model compression. In Proceedings of the 12th ACM SIGKDD International 661 Conference on Knowledge Discovery and Data Mining, KDD ’06, page 535–541, New York, NY, USA. 663 Association for Computing Machinery.
 - Geoffrey Hinton, Oriol Vinyals, and Jeff Dean. 2015. Distilling the knowledge in a neural network. (arXiv:1503.02531arXiv:1503.02531). ArXiv:1503.02531 [cs, stat].
 #### Widely-used KD techniques
 - 
 #### LLM Distillation 
 - Victor Sanh, Lysandre Debut, Julien Chaumond, and Thomas Wolf. 2020. Distilbert, a distilled version of bert: smaller, faster, cheaper and lighter.
-- Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, and Qun Liu. 2020 Tinybert: Distilling bert for natural language under- 741 standing.
-- Alireza Mohammadshahi, Vassilina Nikoulina, 788 Alexandre Berard, Caroline Brun, James Hen- 789 derson, and Laurent Besacier. 2022. Small- 790 100: Introducing shallow multilingual ma- 791 chine translation model for low-resource lan- 792 guages. (arXiv:2210.11621arXiv:2210.11621). 793 ArXiv:2210.11621 [cs].
+- Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, and Qun Liu. 2020 Tinybert: Distilling bert for natural language understanding.
+- Alireza Mohammadshahi, Vassilina Nikoulina, Alexandre Berard, Caroline Brun, James Henderson, and Laurent Besacier. 2022. Small- 790 100: Introducing shallow multilingual ma- 791 chine translation model for low-resource languages. (arXiv:2210.11621arXiv:2210.11621). ArXiv:2210.11621 [cs].
 - Nan He, Hanyu Lai, Chenyang Zhao, Zirui Cheng, Junt- ing Pan, Ruoyu Qin, Ruofan Lu, Rui Lu, Yunchen Zhang, Gangming Zhao, Zhaohui Hou, Zhiyuan Huang, Shaoqing Lu, Ding Liang, and Mingjie Zhan. 2023. Teacherlm: Teaching to fish rather than giving the fish, language modeling likewise. (arXiv:2310.19019). ArXiv:2310.19019 [cs]
 - Mrigank Raman, Pranav Mani, Davis Liang, and Zachary Lipton. 2023. For distillation, tokens are not all you need. In NeurIPS 2023 Workshop on Instruction Tuning and Instruction Following.
-- Sayantan Dasgupta, Trevor Cohn, and Timothy Baldwin. 678 2023. Cost-effective distillation of large language 679 models. In Findings of the Association for Computa- 680 tional Linguistics: ACL 2023, pages 7346–7354.
+- Sayantan Dasgupta, Trevor Cohn, and Timothy Baldwin. 2023. Cost-effective distillation of large language 679 models. In Findings of the Association for Computational Linguistics: ACL 2023, pages 7346–7354.
 - Victor Sanh, Lysandre Debut, Julien Chaumond, and Thomas Wolf. 2020. Distilbert, a distilled version of bert: smaller, faster, cheaper and lighter.
-- Zhiqing Sun, Hongkun Yu, Xiaodan Song, Renjie Liu, 851 Yiming Yang, and Denny Zhou. 2020. Mobilebert: a 852 compact task-agnostic bert for resource-limited de- 853 vices.
+- Zhiqing Sun, Hongkun Yu, Xiaodan Song, Renjie Liu, Yiming Yang, and Denny Zhou. 2020. Mobilebert: a compact task-agnostic bert for resource-limited devices.
 - [EMNLP 2021, CKD, Distilling Linguistic Context for Language Model Compression](https://aclanthology.org/2021.emnlp-main.30.pdf)  
 ### Quantization for LLMs
 ### Etc.
 #### Effiicient decoding
-- Yaniv Leviathan, Matan Kalman, and Yossi Matias. 773 2023. Fast inference from transformers via spec- 774 ulative decoding. In International Conference on 775 Machine Learning, pages 19274–19286. PMLR.
+- Yaniv Leviathan, Matan Kalman, and Yossi Matias. 773 2023. Fast inference from transformers via speculative decoding. In International Conference on 775 Machine Learning, pages 19274–19286. PMLR.
 - Qinyuan Ye, Iz Beltagy, Matthew Peters, Xiang Ren, and Hannaneh Hajishirzi. 2023. FiD-ICL: A fusion- in-decoder approach for efficient in-context learning. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 8158–8185, Toronto, Canada. Association for Computational Linguistics.
 #### Model recycling
-- Brian Lester, Joshua Yurtsever, Siamak Shakeri, and 770 Noah Constant. 2022. Reducing retraining by recy- 771 cling parameter-efficient prompts.
+- Brian Lester, Joshua Yurtsever, Siamak Shakeri, and 770 Noah Constant. 2022. Reducing retraining by recycling parameter-efficient prompts.
 #### Size reduction
-- Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, and 682 Luke Zettlemoyer. 2023. Qlora: Efficient finetuning 683 of quantized llms.
-- Xinyin Ma, Gongfan Fang, and Xinchao Wang. 2023. 785 Llm-pruner: On the structural pruning of large lan- 786 guage models.
+- Tim Dettmers, Artidoro Pagnoni, Ari Holtzman, and Luke Zettlemoyer. 2023. Qlora: Efficient finetuning of quantized llms.
+- Xinyin Ma, Gongfan Fang, and Xinchao Wang. 2023. Llm-pruner: On the structural pruning of large language models.
 ## Fast Fine-Tuning for Downstream Tasks (Deployment)
 ### Adaptor for LLMs
 - 
