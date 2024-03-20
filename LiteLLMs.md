@@ -15,15 +15,22 @@
 #### Widely-used KD techniques
 - 
 #### LLM Distillation 
+##### 2020
 - Victor Sanh, Lysandre Debut, Julien Chaumond, and Thomas Wolf. 2020. Distilbert, a distilled version of bert: smaller, faster, cheaper and lighter.
 - Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, and Qun Liu. 2020 Tinybert: Distilling bert for natural language understanding.
+- Victor Sanh, Lysandre Debut, Julien Chaumond, and Thomas Wolf. 2020. Distilbert, a distilled version of bert: smaller, faster, cheaper and lighter.
+- Zhiqing Sun, Hongkun Yu, Xiaodan Song, Renjie Liu, Yiming Yang, and Denny Zhou. 2020. Mobilebert: a compact task-agnostic bert for resource-limited devices.
+##### 2021
+- [EMNLP 2021, CKD, Distilling Linguistic Context for Language Model Compression](https://aclanthology.org/2021.emnlp-main.30.pdf)
+##### 2022
 - Alireza Mohammadshahi, Vassilina Nikoulina, Alexandre Berard, Caroline Brun, James Henderson, and Laurent Besacier. 2022. Small- 790 100: Introducing shallow multilingual ma- 791 chine translation model for low-resource languages. (arXiv:2210.11621arXiv:2210.11621). ArXiv:2210.11621 [cs].
+##### 2023
 - Nan He, Hanyu Lai, Chenyang Zhao, Zirui Cheng, Junt- ing Pan, Ruoyu Qin, Ruofan Lu, Rui Lu, Yunchen Zhang, Gangming Zhao, Zhaohui Hou, Zhiyuan Huang, Shaoqing Lu, Ding Liang, and Mingjie Zhan. 2023. Teacherlm: Teaching to fish rather than giving the fish, language modeling likewise. (arXiv:2310.19019). ArXiv:2310.19019 [cs]
 - Mrigank Raman, Pranav Mani, Davis Liang, and Zachary Lipton. 2023. For distillation, tokens are not all you need. In NeurIPS 2023 Workshop on Instruction Tuning and Instruction Following.
 - Sayantan Dasgupta, Trevor Cohn, and Timothy Baldwin. 2023. Cost-effective distillation of large language 679 models. In Findings of the Association for Computational Linguistics: ACL 2023, pages 7346–7354.
-- Victor Sanh, Lysandre Debut, Julien Chaumond, and Thomas Wolf. 2020. Distilbert, a distilled version of bert: smaller, faster, cheaper and lighter.
-- Zhiqing Sun, Hongkun Yu, Xiaodan Song, Renjie Liu, Yiming Yang, and Denny Zhou. 2020. Mobilebert: a compact task-agnostic bert for resource-limited devices.
-- [EMNLP 2021, CKD, Distilling Linguistic Context for Language Model Compression](https://aclanthology.org/2021.emnlp-main.30.pdf)  
+##### 2024
+- [MiniLLM: Knowledge Distillation of Large Language Models](https://arxiv.org/pdf/2306.08543.pdf)  
+
 ### Quantization for LLMs
 ### Etc.
 #### Effiicient decoding
@@ -51,10 +58,16 @@
 ☑️ Mixtral  
 
 ## NLP Tasks
+- Question and Answering
 - Extractive Q&A
 - Generative Q&A
 - Machine Translation
 - Summary
+- Text Generation
+- Text Recognition
+- Document Retrieval
+- Multimodal
+- RAG
 
 ## NLP Datasets - Metric: Zero-Shot (%)
 - CoLA
