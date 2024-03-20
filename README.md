@@ -1,10 +1,5 @@
 # Redesign of Efficient Transformers
 #### Contributor(s): yukingx@gmail.com (I am interested in variants of the Vision Transformer)
-<!--
-#### If you are interested in joining this project, please do not hesitate to contact us via email.
-#### Need to refer to https://github.com/patrick-llgc/Learning-Deep-Learning/tree/master
-- This repository contains my paper reading notes on deep learning and machine learning. It is inspired by Denny Britz and Daniel Takeshi. A minimalistic webpage generated with Github io can be found here.
--->
 
 [![Hits](https://hits.sh/github.com/yukingx/Redesign-Transformer.svg)](https://hits.sh/github.com/yukingx/Redesign-Transformer/)
 
@@ -29,33 +24,6 @@
 
 ### ** Papers📄 **  
 
-Hand Crafted Transformers:  
-☑️ [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  
-☑️ [ViT]()  
-☑️ [Mobile ViT]()  
-☑️ [Swin-T]()  
-☑️ [TinyViT]()  
-☑️ [MinViT]()  
-☑️ [EfficientViT]()  
-
-Block-level Efficient Transformers:  
-✅ [Simplifying Transformer Blocks](https://arxiv.org/pdf/2311.01906.pdf)  
-☑️ [Rethinking Spatial Dimensions of Vision Transformers](https://arxiv.org/pdf/2103.16302.pdf)  
-☑️ [The Shaped Transformer: Attention Models in the Infinite Depth-and-Width Limit](https://arxiv.org/pdf/2306.17759.pdf)  
-☑️ [Pale Transformer: A General Vision Transformer Backbone with Pale-Shaped Attention](https://arxiv.org/pdf/2112.14000.pdf)  
-☑️ [Training-free Transformer Architecture Search](https://arxiv.org/pdf/2203.12217.pdf)    
-☑️ [Blockwise-Parallel-Transformer-for-Long-Context-Large-Models](https://arxiv.org/pdf/2305.19370.pdf)  
-☑️ [BI-DIRECTIONAL BLOCK SELF-ATTENTION FOR FAST AND MEMORY-EFFICIENT SEQUENCE MODELING](https://arxiv.org/pdf/1804.00857.pdf)  
-
-NAS for Efficient Transformers:  
-☑️ [The Evolved Transformer](https://arxiv.org/pdf/1901.11117.pdf)  
-☑️ [AutoFormer: Searching Transformers for Visual Recognition](https://arxiv.org/pdf/2107.00651.pdf)  
-☑️ [COSFORMER : RETHINKING SOFTMAX IN ATTENTION](https://arxiv.org/pdf/2202.08791.pdf)  
-☑️ [NAR-Former V2: Rethinking Transformer for Universal Neural Network Representation Learning](https://arxiv.org/pdf/2306.10792.pdf)  
-
-Trainging-Free NAS  
-☑️ []()  
-
 ### *** GPT Implementation: **
 ☑️ [It's GPT Time!](https://medium.com/@kdwa2404/gpt-with-andrej-karpathy-part-1-865bec6fbcce)  
 ☑️ [Optimize!](https://medium.com/@kdwa2404/gpt-with-andrej-karpathy-part-2-f8653926272f)  
@@ -66,11 +34,6 @@ Trainging-Free NAS
 
 ### ** Related GitHub Works: **
 🌐 [Transformers](https://github.com/huggingface/transformers) - A Collection of State-of-Arts Transformers with HuggingFace Code Links
-🌐 [MS Cream](https://github.com/microsoft/Cream/tree/main) - A Collection of NAS and Vision Transformer Work: ('20) Cream, ('21) AutoFormer, AutoFormerV2, ('22) TinyViT, MinViT, CDARTS, and ('23) TinyCLIP, EfficientViT  
-🌐 [NAS-With-Code](https://github.com/xiaoiker/NAS-With-Code)  
-🌐 [Neural-Architecture-Search-PaperAndCode-Sunmary](https://github.com/LiuTingWed/Neural-Architecture-Search-PaperAndCode-Sunmary)  
-🌐 [Neural Tangent Kernel Papers](https://github.com/kwignb/NeuralTangentKernel-Papers)  
-🌐 [HuggingGPT Demo](https://huggingface.co/spaces/microsoft/HuggingGPT)  
 ☑️ Add more repositories.  
 
 ### ** Articles: **
