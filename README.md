@@ -2,6 +2,8 @@
 #### Contributor(s): yukingx@gmail.com (I am interested in variants of the Vision Transformer)
 <!--
 #### If you are interested in joining this project, please do not hesitate to contact us via email.
+#### Need to refer to https://github.com/patrick-llgc/Learning-Deep-Learning/tree/master
+- This repository contains my paper reading notes on deep learning and machine learning. It is inspired by Denny Britz and Daniel Takeshi. A minimalistic webpage generated with Github io can be found here.
 -->
 
 [![Hits](https://hits.sh/github.com/yukingx/Redesign-Transformer.svg)](https://hits.sh/github.com/yukingx/Redesign-Transformer/)
@@ -54,14 +56,6 @@ NAS for Efficient Transformers:
 Trainging-Free NAS  
 ☑️ []()  
 
-LaaS (LLM-Experts)
-☑️ [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/pdf/2303.17580.pdf)  
-☑️ [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf)  
-
-MoE (Mixture-of-Experts)  
-☑️ [Conditional Computation]()  
-☑️ [Adaptive Mixtures of Local Experts](https://www.cs.toronto.edu/~hinton/absps/jjnh91.pdf)  
-
 ### *** GPT Implementation: **
 ☑️ [It's GPT Time!](https://medium.com/@kdwa2404/gpt-with-andrej-karpathy-part-1-865bec6fbcce)  
 ☑️ [Optimize!](https://medium.com/@kdwa2404/gpt-with-andrej-karpathy-part-2-f8653926272f)  
@@ -71,6 +65,7 @@ MoE (Mixture-of-Experts)
 ☑️ [Karpathy's Original Video: Let’s Build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=20s)  
 
 ### ** Related GitHub Works: **
+🌐 [Transformers](https://github.com/huggingface/transformers) - A Collection of State-of-Arts Transformers with HuggingFace Code Links
 🌐 [MS Cream](https://github.com/microsoft/Cream/tree/main) - A Collection of NAS and Vision Transformer Work: ('20) Cream, ('21) AutoFormer, AutoFormerV2, ('22) TinyViT, MinViT, CDARTS, and ('23) TinyCLIP, EfficientViT  
 🌐 [NAS-With-Code](https://github.com/xiaoiker/NAS-With-Code)  
 🌐 [Neural-Architecture-Search-PaperAndCode-Sunmary](https://github.com/LiuTingWed/Neural-Architecture-Search-PaperAndCode-Sunmary)  
@@ -79,6 +74,7 @@ MoE (Mixture-of-Experts)
 ☑️ Add more repositories.  
 
 ### ** Articles: **
+☑️ [[AI] A Comprehensive Review of Transformers: from BERT to ChatGPT](https://medium.com/@vlad_zh/a-comprehensive-review-of-transformers-from-bert-to-chatgpt-f7dfe2b23043)  
 ☑️ [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) - Code Based Explanation (So Good for Newbies!)  
 ☑️ Vision Transformer (ViT)  
 ☑️ GPT 2: [It's GPT Time!](https://lnkd.in/gAAiWe3q) => [Optimize!](https://lnkd.in/gYVUq7e7) => [Attention!](https://lnkd.in/gFqEyiC8) => [Attention is all you need!](https://lnkd.in/gsRAH_cY) => [Transformer Networks](https://lnkd.in/gBmNKyrz)  
@@ -86,7 +82,7 @@ MoE (Mixture-of-Experts)
 ☑️ [Transformer, GPT-3,GPT-J, T5 and BERT.](https://aliissa99.medium.com/transformer-gpt-3-gpt-j-t5-and-bert-4cf8915dd86f)    
 ☑️ [Beyond Token Prediction: the post-Pretraining journey of modern LLMs](https://amatriain.net/blog/postpretraining)    
 ☑️ [Understanding the Neural Tangent Kernel](https://rajatvd.github.io/NTK/)  
-☑️ [Mixture-of-Experts (MoE): The Birth and Rise of Conditional Computation](https://cameronrwolfe.substack.com/p/conditional-computation-the-birth)  
+☑️ [Mixture-of-Experts (MoE): The Birth and Rise of Conditional Computation](https://cameronrwolfe.substack.com/p/conditional-computation-the-birth) 
 ☑️ Add more articles.  
 <!-- 
 Korean::  
@@ -95,21 +91,6 @@ Korean::
 ☑️ [Large Language Model (3) : In-Context Learning, 남은 이야기들](https://jins-sw.tistory.com/51)  
 ☑️ [BERT 논문정리](https://tmaxai.github.io/post/BERT/)  
 ☑️ Add more articles.  
--->
-
-### ** Articles for Domain-Specific LLM as an Oracle (This will be moved to a new LLM-Experts repo) ### 
-☑️ [[AI] A Comprehensive Review of Transformers: from BERT to ChatGPT](https://medium.com/@vlad_zh/a-comprehensive-review-of-transformers-from-bert-to-chatgpt-f7dfe2b23043)  
-✅ [Should you Prompt, RAG, Tune, or Train? A Guide to Choose the Right Generative AI Approach](https://medium.com/@pandey.vikesh/should-you-prompt-rag-tune-or-train-a-guide-to-choose-the-right-generative-ai-approach-5e264043bd7d)   
-☑️ [RAG vs Finetuning vs Prompt Engineering: A pragmatic view on LLM implementation](https://www.linkedin.com/pulse/rag-vs-finetuning-prompt-engineering-pragmatic-view-llm-mathew/)    
-✅ [Full Fine-Tuning, PEFT, Prompt Engineering, and RAG: Which One Is Right for You?](https://deci.ai/blog/fine-tuning-peft-prompt-engineering-and-rag-which-one-is-right-for-you/)  
-☑️ [RAG Vs Fine-Tuning Vs Both for LLM performance When to use which](https://www.youtube.com/watch?v=b2OLrLN6BKE)  
-☑️ [RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?](https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7)  
-☑️ [Fine-tuning versus RAG in Generative AI Applications Architecture](https://harsha-srivatsa.medium.com/fine-tuning-versus-rag-in-generative-ai-applications-architecture-d54ca6d2acb8)  
-☑️ [HuggingGPT: A New Way to Solve Complex AI Tasks with Language](https://ingliguori.medium.com/hugginggpt-a-new-way-to-solve-complex-ai-tasks-with-language-602b6f5b263c)    
-☑️ [논문리뷰 HuggingGPT: Solving AI Tasks with ChatGPT and its friends in Hugging Face](https://velog.io/@boyunj0226/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-HuggingGPT-Solving-AI-Tasks-with-ChatGPT-and-its-friends-in-Hugging-Face)  
-☑️ Add more articles.  
-<!-- 
-Korean:  
 ☑️ [셀프 어텐션 동작 원리](https://ratsgo.github.io/nlpbook/docs/language_model/tr_self_attention/)
 - https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice?tab=readme-ov-file 
 ✅ [생각의 사슬(Chain-of-Thought) 프롬프트를 사용하여 추론 작업의 성능 높이기](https://www.ncloud-forums.com/topic/63/)
@@ -130,8 +111,8 @@ Korean:
 - (TensorFlow) https://github.com/ukairia777/tensorflow-nlp-tutorial
 - (PyTorch) https://wikidocs.net/book/2788
 - (Slides) https://www.slideshare.net/wonjoonyoo/ss-188835227
--->
 ☑️ [PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - See the parts of NLP (Korean Only)
+-->
 
 ### ** Implementation **
 I plan to apply these tools for my implementation:  
