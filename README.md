@@ -84,9 +84,14 @@ LaaS (LLM-Experts)
 ☑️ [Understanding the Neural Tangent Kernel](https://rajatvd.github.io/NTK/)  
 ☑️ [Mixture-of-Experts (MoE): The Birth and Rise of Conditional Computation](https://cameronrwolfe.substack.com/p/conditional-computation-the-birth)  
 ☑️ Add more articles.  
+<!-- 
 Korean::  
-☑️ [BERT 논문정리](https://tmaxai.github.io/post/BERT/)
+☑️ [Large Language Model (1) : Foundation Model](https://jins-sw.tistory.com/48)  
+☑️ [Large Language Model (2) : LLM을 가능케한 삼박자](https://jins-sw.tistory.com/49)  
+☑️ [Large Language Model (3) : In-Context Learning, 남은 이야기들](https://jins-sw.tistory.com/51)  
+☑️ [BERT 논문정리](https://tmaxai.github.io/post/BERT/)  
 ☑️ Add more articles.  
+-->
 
 ### ** Articles for Domain-Specific LLM as an Oracle (This will be moved to a new LLM-Experts repo) ### 
 ☑️ [[AI] A Comprehensive Review of Transformers: from BERT to ChatGPT](https://medium.com/@vlad_zh/a-comprehensive-review-of-transformers-from-bert-to-chatgpt-f7dfe2b23043)  
@@ -99,7 +104,6 @@ Korean::
 ☑️ [HuggingGPT: A New Way to Solve Complex AI Tasks with Language](https://ingliguori.medium.com/hugginggpt-a-new-way-to-solve-complex-ai-tasks-with-language-602b6f5b263c)    
 ☑️ [논문리뷰 HuggingGPT: Solving AI Tasks with ChatGPT and its friends in Hugging Face](https://velog.io/@boyunj0226/%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0-HuggingGPT-Solving-AI-Tasks-with-ChatGPT-and-its-friends-in-Hugging-Face)  
 ☑️ Add more articles.  
-
 <!-- 
 Korean:  
 ☑️ [셀프 어텐션 동작 원리](https://ratsgo.github.io/nlpbook/docs/language_model/tr_self_attention/)
