@@ -1,5 +1,4 @@
 # Redesign of Efficient Transformers
-#### Contributor(s): yukingx@gmail.com (I am interested in variants of the Vision Transformer)
 <!--
 #### If you are interested in joining this project, please do not hesitate to contact us via email.
 #### Need to refer to https://github.com/patrick-llgc/Learning-Deep-Learning/tree/master
